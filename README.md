@@ -1,7 +1,7 @@
 Instructions d'installation
 ======================
 
-#Windows
+# Windows
 1. Installer Git https://gitforwindows.org/
 2. Installer NodeJS https://nodejs.org/en/download/
 3. Cloner le projet :
@@ -25,7 +25,7 @@ module.exports = {
 8. lancer `npm start` dans `node_src/`
 
 
-#Linux et MacOS
+# Linux et MacOS
 1. Installer docker et docker-compose
 2. Se rendre sur github.com
     1. Se connecter
