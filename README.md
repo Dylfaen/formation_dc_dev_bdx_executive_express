@@ -29,7 +29,7 @@ module.exports = {
 1. Installer docker et docker-compose
 2. Se rendre sur github.com
     1. Se connecter
-    2. Fork le projet `Dylfaen/formation_dc_dev_react_node`
+    2. Fork le projet `Dylfaen/formation_dc_dev_bdx_executive_express`
 3. Installer git
 4. Cloner votre projet
 5. Créer un ficher dans `node_src` nommé `config.js` contenant le code suivant 
