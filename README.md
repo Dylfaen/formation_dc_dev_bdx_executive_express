@@ -42,7 +42,7 @@ module.exports = {
 }
 ```
 6. Dans le répertoire du projet lancer `sudo docker-compose up`
-7. Le server node sur `localhost:3001`
+7. Le server node est sur `localhost:3001`
 
 
 
